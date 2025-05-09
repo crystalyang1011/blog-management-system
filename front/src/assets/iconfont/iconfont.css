@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4916067 */
+  src: url("./iconfont.woff2 ") format("woff2"),
+    url("./iconfont.woff ") format("woff"),
+    url("./iconfont.ttf ") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tongjiliang:before {
+  content: "\e677";
+}
+
+.icon-jifen:before {
+  content: "\10208";
+}
+
+.icon-tuichudenglu:before {
+  content: "\10209";
+}
+
+.icon-kehudangan:before {
+  content: "\1020a";
+}
+
+.icon-a-036-flask:before {
+  content: "\e68c";
+}
+
+.icon-a-040-microscope:before {
+  content: "\e68d";
+}
+
+.icon-a-044-chemicalreaction:before {
+  content: "\e68e";
+}
+
+.icon-dongtai:before {
+  content: "\10202";
+}
+
+.icon-fenlei:before {
+  content: "\10203";
+}
+
+.icon-jinrizixun:before {
+  content: "\10204";
+}
+
+.icon-chazhao:before {
+  content: "\10205";
+}
+
+.icon-guanyuwomen:before {
+  content: "\10206";
+}
+
+.icon-wodedingyue:before {
+  content: "\10207";
+}
