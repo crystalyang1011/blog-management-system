@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Aw2685627193!",
+    "database": "express_mysql_user",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
